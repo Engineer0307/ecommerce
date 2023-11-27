@@ -12,7 +12,7 @@
  * @see https://github.com/barryvdh/laravel-ide-helper
  */
 
-    namespace Illuminate\Support\Facades { 
+    namespace Illuminate\Support\Facades {   
             /**
      * 
      *
